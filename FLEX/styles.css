@@ -1,0 +1,13 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    color: antiquewhite;
+
+}
+
+#div1{background-color: red;}
+    #div1{background-color: blue; padding: 5px;}
+    #div2{background-color: red; padding: 5px}
+    #div3{background-color: purple; padding: 5px}
+
+
